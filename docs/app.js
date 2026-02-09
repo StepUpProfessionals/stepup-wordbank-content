@@ -54,7 +54,7 @@ function hide(el) { el.classList.add("hidden"); }
 
 async function loadWordbank() {
   // Carga desde /data/wordbank_content.json (en la raíz del repo)
-  const res = await fetch("../data/wordbank_content.json");
+const res = await fetch("./data/wordbank_content.json");
   if (!res.ok) throw new Error("No pude cargar wordbank_content.json");
   const data = await res.json();
 
