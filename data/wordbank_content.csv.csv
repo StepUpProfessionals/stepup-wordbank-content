@@ -1,0 +1,338 @@
+en,es,example_en,lesson
+hello,hola,Hello!,1
+hi,hola,Hi!,1
+welcome,bienvenido/a,Welcome!,1
+good,bueno/a,Good!,1
+morning,mañana,Good morning.,1
+afternoon,tarde,Good afternoon.,1
+evening,noche,Good evening.,1
+bye,adiós,Bye!,1
+goodbye,adiós,Goodbye!,1
+name,nombre,My name is Ana.,1
+I'm,soy/estoy,I'm Mark.,1
+nice,agradable,Nice to meet you.,1
+meet,conocer,Nice to meet you.,1
+too,también,Me too.,1
+today,hoy,Today is Monday.,1
+fine,bien,I'm fine.,1
+well,bien,I'm well.,1
+thank,gracias,Thank you.,1
+thanks,gracias,Thanks!,1
+please,por favor,"Please, repeat.",1
+sir,señor,"Yes, sir.",1
+ma'am,señora/señorita,"Yes, ma'am.",1
+spell,deletrear,Spell your name.,2
+spelling,deletreo,My spelling is good.,2
+letter,letra,This letter is A.,2
+alphabet,alfabeto,The alphabet has letters.,2
+first,primero/a,My first name is Ana.,2
+last,último/a,My last name is Lopez.,2
+surname,apellido,My surname is Lopez.,2
+middle,segundo nombre,My middle name is Maria.,2
+email,correo electrónico,My email is ana@example.com.,2
+phone,teléfono,My phone is 555-1234.,2
+number,número,My number is 555-1234.,2
+address,dirección,My address is 10 Main Street.,2
+street,calle,It is on Main Street.,2
+avenue,avenida,It is on First Avenue.,2
+apartment,apartamento,I live in an apartment.,2
+house,casa,I live in a house.,2
+city,ciudad,My city is Bogotá.,2
+state,estado/departamento,My state is Caldas.,2
+country,país,My country is Colombia.,2
+zip,código postal,My zip code is 12345.,2
+code,código,My code is 1234.,2
+area,área,This area is safe.,2
+dot,punto (.),Type a dot.,2
+underscore,guion bajo (_),Type an underscore.,2
+dash,guion (-),Type a dash.,2
+plus,más (+),Use plus for email tags.,2
+call,llamar,"Call me, please.",2
+text,mensaje de texto,"Text me, please.",2
+message,mensaje,Send a message.,2
+send,enviar,Send the email.,2
+type,teclear,Type your name.,2
+enter,ingresar,Enter your email.,2
+maybe,tal vez,Maybe later.,3
+okay,de acuerdo,Okay.,3
+sure,claro,Sure.,3
+live,vivir,I live in Bogotá.,4
+far,lejos,It is far.,4
+front,frente,The bank is in front.,4
+next,siguiente,"Next, write your name.",4
+left,izquierda,Turn left.,4
+right,derecha,Turn right.,4
+north,norte,North is up.,4
+south,sur,South is down.,4
+east,este,East is right.,4
+west,oeste,West is left.,4
+neighborhood,barrio/vecindario,My neighborhood is quiet.,4
+downtown,centro,I work downtown.,4
+park,parque,The park is near.,4
+store,tienda,The store is open.,4
+school,escuela,The school is big.,4
+hospital,hospital,The hospital is near.,4
+bank,banco,The bank is here.,4
+restaurant,restaurante,The restaurant is good.,4
+bus,bus/autobús,The bus is here.,4
+station,estación,The station is far.,4
+friend,amigo/a,This is friend.,5
+colleague,colega,This is colleague.,5
+coworker,compañero/a de trabajo,This is coworker.,5
+teacher,profesor/a,This is teacher.,5
+student,estudiante,This is student.,5
+family,familia,This is family.,5
+mother,madre,This is mother.,5
+father,padre,This is father.,5
+parent,padre/madre,This is parent.,5
+sister,hermana,This is sister.,5
+brother,hermano,This is brother.,5
+husband,esposo,This is husband.,5
+wife,esposa,This is wife.,5
+son,hijo,This is son.,5
+daughter,hija,This is daughter.,5
+children,niños/hijos,This is children.,5
+grandmother,abuela,This is grandmother.,5
+grandfather,abuelo,This is grandfather.,5
+aunt,tía,This is aunt.,5
+uncle,tío,This is uncle.,5
+cousin,primo/a,This is cousin.,5
+person,persona,This is person.,5
+people,personas,This is people.,5
+man,hombre,This is man.,5
+woman,mujer,This is woman.,5
+boy,niño,This is boy.,5
+girl,niña,This is girl.,5
+single,soltero/a,I'm single.,5
+married,casado/a,I'm married.,5
+young,joven,She is young.,5
+old,mayor,He is old.,5
+new,nuevo/a,This is new.,5
+together,juntos,We are together.,5
+one,uno,I have one book.,6
+two,dos,I have two books.,6
+three,tres,I have three books.,6
+four,cuatro,I have four books.,6
+five,cinco,I have five books.,6
+six,seis,I have six books.,6
+seven,siete,I have seven books.,6
+eight,ocho,I have eight books.,6
+nine,nueve,I have nine books.,6
+ten,diez,I have ten books.,6
+eleven,once,I have eleven books.,6
+twelve,doce,I have twelve books.,6
+thirteen,trece,I have thirteen books.,6
+fourteen,catorce,I have fourteen books.,6
+fifteen,quince,I have fifteen books.,6
+sixteen,dieciséis,I have sixteen books.,6
+seventeen,diecisiete,I have seventeen books.,6
+eighteen,dieciocho,I have eighteen books.,6
+nineteen,diecinueve,I have nineteen books.,6
+twenty,veinte,I have twenty books.,6
+thirty,treinta,I have thirty books.,6
+forty,cuarenta,I have forty books.,6
+fifty,cincuenta,I have fifty books.,6
+sixty,sesenta,I have sixty books.,6
+seventy,setenta,I have seventy books.,6
+eighty,ochenta,I have eighty books.,6
+ninety,noventa,I have ninety books.,6
+hundred,cien,One hundred.,6
+time,tiempo/hora,What time is it?,6
+hour,hora,One hour.,6
+minute,minuto,One minute.,6
+second,segundo,One second.,6
+o'clock,en punto,It is one o'clock.,6
+work,trabajar,I work here.,7
+job,trabajo/empleo,I have a job.,7
+office,oficina,I work in an office.,7
+company,empresa,This company is big.,7
+business,negocio,This business is new.,7
+workplace,lugar de trabajo,My workplace is downtown.,7
+meeting,reunión,I have a meeting.,7
+schedule,horario/agenda,My schedule is full.,7
+project,proyecto,This project is important.,7
+task,tarea,This task is easy.,7
+manager,gerente,My manager is here.,7
+boss,jefe,My boss is kind.,7
+employee,empleado/a,I am an employee.,7
+customer,cliente (comprador),The customer is here.,7
+client,cliente,The client is ready.,7
+assistant,asistente,I am an assistant.,7
+receptionist,recepcionista,She is a receptionist.,7
+engineer,ingeniero/a,This is engineer.,7
+driver,conductor/a,This is driver.,7
+chef,chef/cocinero,This is chef.,7
+waiter,mesero/camarero,This is waiter.,7
+cashier,cajero/a,This is cashier.,7
+nurse,enfermero/a,This is nurse.,7
+doctor,médico/a,This is doctor.,7
+lawyer,abogado/a,This is lawyer.,7
+artist,artista,This is artist.,7
+designer,diseñador/a,This is designer.,7
+seller,vendedor/a,This is seller.,7
+service,servicio,Good service.,7
+full-time,tiempo completo,I work full-time.,7
+part-time,medio tiempo,I work part-time.,7
+shift,turno,My shift is today.,7
+career,carrera/profesión,My career is important.,7
+wake,despertar(se),I wake up early.,8
+get,levantarse/obtener,I get up at six.,8
+go,ir,I go to work.,8
+come,venir,"Come here, please.",8
+leave,salir/irse,I leave at five.,8
+arrive,llegar,I arrive on time.,8
+start,empezar,I start now.,8
+finish,terminar,I finish at six.,8
+eat,comer,I eat breakfast.,8
+drink,beber,I drink water.,8
+cook,cocinar,I cook dinner.,8
+clean,limpiar,I clean the house.,8
+wash,lavar,I wash my hands.,8
+shower,ducha/ducharse,I shower in the morning.,8
+sleep,dormir,I sleep well.,8
+walk,caminar,I walk to work.,8
+run,correr,I run fast.,8
+drive,conducir,I drive to the office.,8
+take,tomar/llevar,I take the bus.,8
+make,hacer,I make coffee.,8
+study,estudiar,I study English.,8
+learn,aprender,I learn fast.,8
+practice,practicar,I practice every day.,8
+read,leer,I read a book.,8
+write,escribir,I write notes.,8
+watch,ver/mirar,I watch TV.,8
+listen,escuchar,I listen to music.,8
+speak,hablar,I speak English.,8
+play,jugar/tocar,I play soccer.,8
+exercise,hacer ejercicio,I exercise today.,8
+usually,usualmente,I usually wake up early.,8
+sometimes,a veces,I sometimes work late.,8
+like,gustar,I like coffee.,9
+love,encantar,I love music.,9
+prefer,preferir,I prefer tea.,9
+favorite,favorito/a,Coffee is my favorite.,9
+enjoy,disfrutar,I enjoy reading.,9
+hate,odiar,I hate noise.,9
+want,querer,I want water.,9
+need,necesitar,I need help.,9
+music,música,I like music.,9
+food,comida,The food is good.,9
+coffee,café,I want coffee.,9
+tea,té,I prefer tea.,9
+water,agua,I drink water.,9
+juice,jugo,I like juice.,9
+breakfast,desayuno,I eat breakfast.,9
+lunch,almuerzo,I eat lunch.,9
+dinner,cena,I cook dinner.,9
+snack,merienda/snack,I want a snack.,9
+fruit,fruta,I like fruit.,9
+vegetable,verdura,I eat vegetables.,9
+meat,carne,I don't eat meat.,9
+chicken,pollo,I eat chicken.,9
+fish,pescado,I like fish.,9
+rice,arroz,I eat rice.,9
+bread,pan,I eat bread.,9
+salad,ensalada,I want a salad.,9
+soup,sopa,The soup is hot.,9
+sweet,dulce,This is sweet.,9
+salty,salado,This is salty.,9
+spicy,picante,This is spicy.,9
+hungry,hambriento/a,I'm hungry.,9
+thirsty,sediento/a,I'm thirsty.,9
+dessert,postre,I want dessert.,9
+repeat,repetir,"Repeat, please.",10
+again,otra vez,"Again, please.",10
+slow,lento,"Speak slow, please.",10
+slower,más lento,"Slower, please.",10
+fast,rápido,Speak fast?,10
+faster,más rápido,"Faster, please.",10
+sorry,lo siento,Sorry.,10
+excuse,disculpe,Excuse me.,10
+pardon,perdón,Pardon me.,10
+understand,entender,I understand.,10
+confused,confundido/a,I'm confused.,10
+meaning,significado,What is the meaning?,10
+mean,significar,What does it mean?,10
+explain,explicar,"Explain, please.",10
+example,ejemplo,Give an example.,10
+question,pregunta,I have a question.,10
+answer,respuesta,My answer is yes.,10
+help,ayuda/ayudar,"Help, please.",10
+translate,traducir,"Translate this, please.",10
+language,idioma,English is a language.,10
+word,palabra,This word is new.,10
+phrase,frase,This phrase is useful.,10
+sentence,oración,This sentence is short.,10
+pronunciation,pronunciación,My pronunciation is better.,10
+sound,sonido,This sound is new.,10
+accent,acento,Your accent is clear.,10
+correct,correcto/corregir,That is correct.,10
+clear,claro,"Speak clear, please.",10
+say,decir,Say it again.,10
+tell,decir/contar,"Tell me, please.",10
+show,mostrar,"Show me, please.",10
+difference,diferencia,What is the difference?,10
+note,nota/apuntar,Take a note.,10
+allow,permitir,"Allow me, please.",11
+permission,permiso,I need permission.,11
+ask,preguntar/pedir,Ask a question.,11
+request,solicitar,I have a request.,11
+borrow,pedir prestado,Can I borrow a pen?,11
+lend,prestar,Can you lend me a pen?,11
+use,usar,Use this word.,11
+open,abrir,Open the book.,11
+close,cerrar,Close the book.,11
+turn,girar/encender,Turn left.,11
+off,apagar,Turn it off.,11
+bring,traer,Bring your notebook.,11
+give,dar,Give me the pen.,11
+support,apoyo/apoyar,Thank you for your support.,11
+pen,bolígrafo,I need a pen.,11
+pencil,lápiz,I need a pencil.,11
+paper,papel,I need paper.,11
+notebook,cuaderno,This is my notebook.,11
+page,página,Open page one.,11
+book,libro,This book is new.,11
+dictionary,diccionario,Use a dictionary.,11
+homework,tarea,This homework is easy.,11
+classroom,salón de clase,The classroom is ready.,11
+class,clase,The class is today.,11
+bathroom,baño,Where is the bathroom?,11
+break,descanso,We have a break.,11
+problem,problema,I have a problem.,11
+issue,asunto/problema,This is an issue.,11
+ready,listo/a,I am ready.,11
+appreciate,apreciar/agradecer,I appreciate your help.,11
+Monday,lunes,Today is Monday.,12
+Tuesday,martes,Today is Tuesday.,12
+Wednesday,miércoles,Today is Wednesday.,12
+Thursday,jueves,Today is Thursday.,12
+Friday,viernes,Today is Friday.,12
+Saturday,sábado,Today is Saturday.,12
+Sunday,domingo,Today is Sunday.,12
+January,enero,January is a month.,12
+February,febrero,February is a month.,12
+March,marzo,March is a month.,12
+April,abril,April is a month.,12
+June,junio,June is a month.,12
+July,julio,July is a month.,12
+August,agosto,August is a month.,12
+September,septiembre,September is a month.,12
+October,octubre,October is a month.,12
+November,noviembre,November is a month.,12
+December,diciembre,December is a month.,12
+red,rojo,Red is my favorite color.,12
+blue,azul,Blue is my favorite color.,12
+green,verde,Green is my favorite color.,12
+yellow,amarillo,Yellow is my favorite color.,12
+black,negro,Black is my favorite color.,12
+white,blanco,White is my favorite color.,12
+orange,naranja,Orange is my favorite color.,12
+pink,rosado,Pink is my favorite color.,12
+purple,morado,Purple is my favorite color.,12
+brown,café/marrón,Brown is my favorite color.,12
+gray,gris,Gray is my favorite color.,12
+very,muy,It is very good.,12
+really,realmente,I really like it.,12
+always,siempre,I always practice.,12
+never,nunca,I never work on Sunday.,12

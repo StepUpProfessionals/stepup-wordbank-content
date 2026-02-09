@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "types": [
+    {
+      "id": "es_to_en_mcq",
+      "name": "ES→EN (MCQ)",
+      "description": "Se muestra ES, elige EN.",
+      "needs": [
+        "es"
+      ]
+    },
+    {
+      "id": "en_to_es_mcq",
+      "name": "EN→ES (MCQ)",
+      "description": "Se muestra EN, elige ES.",
+      "needs": [
+        "es"
+      ]
+    },
+    {
+      "id": "typing_en",
+      "name": "Producción (typing)",
+      "description": "Se muestra ES o ejemplo y escribe EN.",
+      "needs": [
+        "es"
+      ]
+    },
+    {
+      "id": "gap_fill",
+      "name": "Uso en frase (gap-fill)",
+      "description": "Completa example_en con la palabra faltante.",
+      "needs": [
+        "example_en"
+      ]
+    },
+    {
+      "id": "dictation",
+      "name": "Dictado",
+      "description": "Escucha audio (ElevenLabs) y escribe EN.",
+      "needs": []
+    }
+  ],
+  "note": "Como ya tienes ES y ejemplo, puedes evaluar reconocimiento + producción + uso."
+}
