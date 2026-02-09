@@ -1,5 +1,4 @@
 # stepup-wordbank-content
-=======
 # Step Up — Wordbank (Content Words)
 
 Banco **solo de palabras de contenido** (contenido léxico) para *Inglés desde cero*.
