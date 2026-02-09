@@ -1,4 +1,5 @@
 # stepup-wordbank-content
+
 # Step Up — Wordbank (Content Words)
 
 Banco **solo de palabras de contenido** (contenido léxico) para *Inglés desde cero*.
@@ -13,6 +14,4 @@ Banco **solo de palabras de contenido** (contenido léxico) para *Inglés desde 
 Este repo es **minimalista**: se alimenta ocasionalmente y se usa para generar tests y seguimiento.
 Las palabras de función van en un repo aparte.
 
-git add README.md
-git commit -m "Document CSV as source of truth"
-git push
+Fuente oficial: data/wordbank_content.csv (edítelo aquí). El JSON se regenera desde el CSV.
