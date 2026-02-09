@@ -1,1 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Step Up — Vocabulario (Contenido)</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 24px auto; padding: 0 16px; }
+    .card { border: 1px solid #ddd; border-radius: 10px; padding: 16px; margin: 12px 0; }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; }
+    input { padding: 10px; font-size: 16px; width: 280px; }
+    button { padding: 10px 14px; font-size: 16px; cursor: pointer; }
+    .muted { color: #666; font-size: 14px; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <h1>Step Up — Vocabulario (Contenido)</h1>
+  <p class="muted">Diagnóstico rápido. Al final podrás enviar tu reporte por WhatsApp.</p>
+
+  <!-- Pantalla inicial -->
+  <div id="screenStart" class="card">
+    <h2>Iniciar</h2>
+    <div class="row">
+      <input id="studentName" type="text" placeholder="Tu nombre" />
+      <button id="btnStart">Empezar</button>
+    </div>
+    <p class="muted">Nota: asegúrate de escribir tu nombre como quieres que llegue en el reporte.</p>
+  </div>
+
+  <!-- Quiz -->
+  <div id="screenQuiz" class="card hidden">
+    <div class="muted" id="progressText">Pregunta 1/20</div>
+    <h2 id="questionText">Pregunta...</h2>
+
+    <div id="choicesArea" class="row"></div>
+
+    <div class="row">
+      <button id="btnNext" class="hidden">Siguiente</button>
+    </div>
+
+    <p class="muted" id="feedbackText"></p>
+  </div>
+
+  <!-- Resultados -->
+  <div id="screenResult" class="card hidden">
+    <h2>Resultado</h2>
+    <p id="scoreText">Puntaje: —</p>
+
+    <h3>Errores (EN — ES)</h3>
+    <pre id="errorsText" style="white-space: pre-wrap; background:#f7f7f7; padding:12px; border-radius:8px;"></pre>
+
+    <div class="row">
+      <button id="btnWhatsApp">Enviar reporte por WhatsApp</button>
+      <button id="btnDownload">Descargar reporte (JSON)</button>
+    </div>
+
+    <p class="muted">El reporte se enviará al WhatsApp 3005171856.</p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
 
