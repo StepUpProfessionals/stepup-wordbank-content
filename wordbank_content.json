@@ -1,0 +1,2361 @@
+[
+  {
+    "id": 1,
+    "en": "I'm",
+    "es": "soy/estoy",
+    "example_en": "I'm Mark.",
+    "lesson": 1
+  },
+  {
+    "id": 2,
+    "en": "afternoon",
+    "es": "tarde",
+    "example_en": "Good afternoon.",
+    "lesson": 1
+  },
+  {
+    "id": 3,
+    "en": "bye",
+    "es": "adiós",
+    "example_en": "Bye!",
+    "lesson": 1
+  },
+  {
+    "id": 4,
+    "en": "evening",
+    "es": "noche",
+    "example_en": "Good evening.",
+    "lesson": 1
+  },
+  {
+    "id": 5,
+    "en": "fine",
+    "es": "bien",
+    "example_en": "I'm fine.",
+    "lesson": 1
+  },
+  {
+    "id": 6,
+    "en": "good",
+    "es": "bueno/a",
+    "example_en": "Good!",
+    "lesson": 1
+  },
+  {
+    "id": 7,
+    "en": "goodbye",
+    "es": "adiós",
+    "example_en": "Goodbye!",
+    "lesson": 1
+  },
+  {
+    "id": 8,
+    "en": "hello",
+    "es": "hola",
+    "example_en": "Hello!",
+    "lesson": 1
+  },
+  {
+    "id": 9,
+    "en": "hi",
+    "es": "hola",
+    "example_en": "Hi!",
+    "lesson": 1
+  },
+  {
+    "id": 10,
+    "en": "ma'am",
+    "es": "señora/señorita",
+    "example_en": "Yes, ma'am.",
+    "lesson": 1
+  },
+  {
+    "id": 11,
+    "en": "meet",
+    "es": "conocer",
+    "example_en": "Nice to meet you.",
+    "lesson": 1
+  },
+  {
+    "id": 12,
+    "en": "morning",
+    "es": "mañana",
+    "example_en": "Good morning.",
+    "lesson": 1
+  },
+  {
+    "id": 13,
+    "en": "name",
+    "es": "nombre",
+    "example_en": "My name is Ana.",
+    "lesson": 1
+  },
+  {
+    "id": 14,
+    "en": "nice",
+    "es": "agradable",
+    "example_en": "Nice to meet you.",
+    "lesson": 1
+  },
+  {
+    "id": 15,
+    "en": "please",
+    "es": "por favor",
+    "example_en": "Please, repeat.",
+    "lesson": 1
+  },
+  {
+    "id": 16,
+    "en": "sir",
+    "es": "señor",
+    "example_en": "Yes, sir.",
+    "lesson": 1
+  },
+  {
+    "id": 17,
+    "en": "thank",
+    "es": "gracias",
+    "example_en": "Thank you.",
+    "lesson": 1
+  },
+  {
+    "id": 18,
+    "en": "thanks",
+    "es": "gracias",
+    "example_en": "Thanks!",
+    "lesson": 1
+  },
+  {
+    "id": 19,
+    "en": "today",
+    "es": "hoy",
+    "example_en": "Today is Monday.",
+    "lesson": 1
+  },
+  {
+    "id": 20,
+    "en": "too",
+    "es": "también",
+    "example_en": "Me too.",
+    "lesson": 1
+  },
+  {
+    "id": 21,
+    "en": "welcome",
+    "es": "bienvenido/a",
+    "example_en": "Welcome!",
+    "lesson": 1
+  },
+  {
+    "id": 22,
+    "en": "well",
+    "es": "bien",
+    "example_en": "I'm well.",
+    "lesson": 1
+  },
+  {
+    "id": 23,
+    "en": "address",
+    "es": "dirección",
+    "example_en": "My address is 10 Main Street.",
+    "lesson": 2
+  },
+  {
+    "id": 24,
+    "en": "alphabet",
+    "es": "alfabeto",
+    "example_en": "The alphabet has letters.",
+    "lesson": 2
+  },
+  {
+    "id": 25,
+    "en": "apartment",
+    "es": "apartamento",
+    "example_en": "I live in an apartment.",
+    "lesson": 2
+  },
+  {
+    "id": 26,
+    "en": "area",
+    "es": "área",
+    "example_en": "This area is safe.",
+    "lesson": 2
+  },
+  {
+    "id": 27,
+    "en": "avenue",
+    "es": "avenida",
+    "example_en": "It is on First Avenue.",
+    "lesson": 2
+  },
+  {
+    "id": 28,
+    "en": "call",
+    "es": "llamar",
+    "example_en": "Call me, please.",
+    "lesson": 2
+  },
+  {
+    "id": 29,
+    "en": "city",
+    "es": "ciudad",
+    "example_en": "My city is Bogotá.",
+    "lesson": 2
+  },
+  {
+    "id": 30,
+    "en": "code",
+    "es": "código",
+    "example_en": "My code is 1234.",
+    "lesson": 2
+  },
+  {
+    "id": 31,
+    "en": "country",
+    "es": "país",
+    "example_en": "My country is Colombia.",
+    "lesson": 2
+  },
+  {
+    "id": 32,
+    "en": "dash",
+    "es": "guion (-)",
+    "example_en": "Type a dash.",
+    "lesson": 2
+  },
+  {
+    "id": 33,
+    "en": "dot",
+    "es": "punto (.)",
+    "example_en": "Type a dot.",
+    "lesson": 2
+  },
+  {
+    "id": 34,
+    "en": "email",
+    "es": "correo electrónico",
+    "example_en": "My email is ana@example.com.",
+    "lesson": 2
+  },
+  {
+    "id": 35,
+    "en": "enter",
+    "es": "ingresar",
+    "example_en": "Enter your email.",
+    "lesson": 2
+  },
+  {
+    "id": 36,
+    "en": "first",
+    "es": "primero/a",
+    "example_en": "My first name is Ana.",
+    "lesson": 2
+  },
+  {
+    "id": 37,
+    "en": "house",
+    "es": "casa",
+    "example_en": "I live in a house.",
+    "lesson": 2
+  },
+  {
+    "id": 38,
+    "en": "last",
+    "es": "último/a",
+    "example_en": "My last name is Lopez.",
+    "lesson": 2
+  },
+  {
+    "id": 39,
+    "en": "letter",
+    "es": "letra",
+    "example_en": "This letter is A.",
+    "lesson": 2
+  },
+  {
+    "id": 40,
+    "en": "message",
+    "es": "mensaje",
+    "example_en": "Send a message.",
+    "lesson": 2
+  },
+  {
+    "id": 41,
+    "en": "middle",
+    "es": "segundo nombre",
+    "example_en": "My middle name is Maria.",
+    "lesson": 2
+  },
+  {
+    "id": 42,
+    "en": "number",
+    "es": "número",
+    "example_en": "My number is 555-1234.",
+    "lesson": 2
+  },
+  {
+    "id": 43,
+    "en": "phone",
+    "es": "teléfono",
+    "example_en": "My phone is 555-1234.",
+    "lesson": 2
+  },
+  {
+    "id": 44,
+    "en": "plus",
+    "es": "más (+)",
+    "example_en": "Use plus for email tags.",
+    "lesson": 2
+  },
+  {
+    "id": 45,
+    "en": "send",
+    "es": "enviar",
+    "example_en": "Send the email.",
+    "lesson": 2
+  },
+  {
+    "id": 46,
+    "en": "spell",
+    "es": "deletrear",
+    "example_en": "Spell your name.",
+    "lesson": 2
+  },
+  {
+    "id": 47,
+    "en": "spelling",
+    "es": "deletreo",
+    "example_en": "My spelling is good.",
+    "lesson": 2
+  },
+  {
+    "id": 48,
+    "en": "state",
+    "es": "estado/departamento",
+    "example_en": "My state is Caldas.",
+    "lesson": 2
+  },
+  {
+    "id": 49,
+    "en": "street",
+    "es": "calle",
+    "example_en": "It is on Main Street.",
+    "lesson": 2
+  },
+  {
+    "id": 50,
+    "en": "surname",
+    "es": "apellido",
+    "example_en": "My surname is Lopez.",
+    "lesson": 2
+  },
+  {
+    "id": 51,
+    "en": "text",
+    "es": "mensaje de texto",
+    "example_en": "Text me, please.",
+    "lesson": 2
+  },
+  {
+    "id": 52,
+    "en": "type",
+    "es": "teclear",
+    "example_en": "Type your name.",
+    "lesson": 2
+  },
+  {
+    "id": 53,
+    "en": "underscore",
+    "es": "guion bajo (_)",
+    "example_en": "Type an underscore.",
+    "lesson": 2
+  },
+  {
+    "id": 54,
+    "en": "zip",
+    "es": "código postal",
+    "example_en": "My zip code is 12345.",
+    "lesson": 2
+  },
+  {
+    "id": 55,
+    "en": "maybe",
+    "es": "tal vez",
+    "example_en": "Maybe later.",
+    "lesson": 3
+  },
+  {
+    "id": 56,
+    "en": "okay",
+    "es": "de acuerdo",
+    "example_en": "Okay.",
+    "lesson": 3
+  },
+  {
+    "id": 57,
+    "en": "sure",
+    "es": "claro",
+    "example_en": "Sure.",
+    "lesson": 3
+  },
+  {
+    "id": 58,
+    "en": "bank",
+    "es": "banco",
+    "example_en": "The bank is here.",
+    "lesson": 4
+  },
+  {
+    "id": 59,
+    "en": "bus",
+    "es": "bus/autobús",
+    "example_en": "The bus is here.",
+    "lesson": 4
+  },
+  {
+    "id": 60,
+    "en": "downtown",
+    "es": "centro",
+    "example_en": "I work downtown.",
+    "lesson": 4
+  },
+  {
+    "id": 61,
+    "en": "east",
+    "es": "este",
+    "example_en": "East is right.",
+    "lesson": 4
+  },
+  {
+    "id": 62,
+    "en": "far",
+    "es": "lejos",
+    "example_en": "It is far.",
+    "lesson": 4
+  },
+  {
+    "id": 63,
+    "en": "front",
+    "es": "frente",
+    "example_en": "The bank is in front.",
+    "lesson": 4
+  },
+  {
+    "id": 64,
+    "en": "hospital",
+    "es": "hospital",
+    "example_en": "The hospital is near.",
+    "lesson": 4
+  },
+  {
+    "id": 65,
+    "en": "left",
+    "es": "izquierda",
+    "example_en": "Turn left.",
+    "lesson": 4
+  },
+  {
+    "id": 66,
+    "en": "live",
+    "es": "vivir",
+    "example_en": "I live in Bogotá.",
+    "lesson": 4
+  },
+  {
+    "id": 67,
+    "en": "neighborhood",
+    "es": "barrio/vecindario",
+    "example_en": "My neighborhood is quiet.",
+    "lesson": 4
+  },
+  {
+    "id": 68,
+    "en": "next",
+    "es": "siguiente",
+    "example_en": "Next, write your name.",
+    "lesson": 4
+  },
+  {
+    "id": 69,
+    "en": "north",
+    "es": "norte",
+    "example_en": "North is up.",
+    "lesson": 4
+  },
+  {
+    "id": 70,
+    "en": "park",
+    "es": "parque",
+    "example_en": "The park is near.",
+    "lesson": 4
+  },
+  {
+    "id": 71,
+    "en": "restaurant",
+    "es": "restaurante",
+    "example_en": "The restaurant is good.",
+    "lesson": 4
+  },
+  {
+    "id": 72,
+    "en": "right",
+    "es": "derecha",
+    "example_en": "Turn right.",
+    "lesson": 4
+  },
+  {
+    "id": 73,
+    "en": "school",
+    "es": "escuela",
+    "example_en": "The school is big.",
+    "lesson": 4
+  },
+  {
+    "id": 74,
+    "en": "south",
+    "es": "sur",
+    "example_en": "South is down.",
+    "lesson": 4
+  },
+  {
+    "id": 75,
+    "en": "station",
+    "es": "estación",
+    "example_en": "The station is far.",
+    "lesson": 4
+  },
+  {
+    "id": 76,
+    "en": "store",
+    "es": "tienda",
+    "example_en": "The store is open.",
+    "lesson": 4
+  },
+  {
+    "id": 77,
+    "en": "west",
+    "es": "oeste",
+    "example_en": "West is left.",
+    "lesson": 4
+  },
+  {
+    "id": 78,
+    "en": "aunt",
+    "es": "tía",
+    "example_en": "This is aunt.",
+    "lesson": 5
+  },
+  {
+    "id": 79,
+    "en": "boy",
+    "es": "niño",
+    "example_en": "This is boy.",
+    "lesson": 5
+  },
+  {
+    "id": 80,
+    "en": "brother",
+    "es": "hermano",
+    "example_en": "This is brother.",
+    "lesson": 5
+  },
+  {
+    "id": 81,
+    "en": "children",
+    "es": "niños/hijos",
+    "example_en": "This is children.",
+    "lesson": 5
+  },
+  {
+    "id": 82,
+    "en": "colleague",
+    "es": "colega",
+    "example_en": "This is colleague.",
+    "lesson": 5
+  },
+  {
+    "id": 83,
+    "en": "cousin",
+    "es": "primo/a",
+    "example_en": "This is cousin.",
+    "lesson": 5
+  },
+  {
+    "id": 84,
+    "en": "coworker",
+    "es": "compañero/a de trabajo",
+    "example_en": "This is coworker.",
+    "lesson": 5
+  },
+  {
+    "id": 85,
+    "en": "daughter",
+    "es": "hija",
+    "example_en": "This is daughter.",
+    "lesson": 5
+  },
+  {
+    "id": 86,
+    "en": "family",
+    "es": "familia",
+    "example_en": "This is family.",
+    "lesson": 5
+  },
+  {
+    "id": 87,
+    "en": "father",
+    "es": "padre",
+    "example_en": "This is father.",
+    "lesson": 5
+  },
+  {
+    "id": 88,
+    "en": "friend",
+    "es": "amigo/a",
+    "example_en": "This is friend.",
+    "lesson": 5
+  },
+  {
+    "id": 89,
+    "en": "girl",
+    "es": "niña",
+    "example_en": "This is girl.",
+    "lesson": 5
+  },
+  {
+    "id": 90,
+    "en": "grandfather",
+    "es": "abuelo",
+    "example_en": "This is grandfather.",
+    "lesson": 5
+  },
+  {
+    "id": 91,
+    "en": "grandmother",
+    "es": "abuela",
+    "example_en": "This is grandmother.",
+    "lesson": 5
+  },
+  {
+    "id": 92,
+    "en": "husband",
+    "es": "esposo",
+    "example_en": "This is husband.",
+    "lesson": 5
+  },
+  {
+    "id": 93,
+    "en": "man",
+    "es": "hombre",
+    "example_en": "This is man.",
+    "lesson": 5
+  },
+  {
+    "id": 94,
+    "en": "married",
+    "es": "casado/a",
+    "example_en": "I'm married.",
+    "lesson": 5
+  },
+  {
+    "id": 95,
+    "en": "mother",
+    "es": "madre",
+    "example_en": "This is mother.",
+    "lesson": 5
+  },
+  {
+    "id": 96,
+    "en": "new",
+    "es": "nuevo/a",
+    "example_en": "This is new.",
+    "lesson": 5
+  },
+  {
+    "id": 97,
+    "en": "old",
+    "es": "mayor",
+    "example_en": "He is old.",
+    "lesson": 5
+  },
+  {
+    "id": 98,
+    "en": "parent",
+    "es": "padre/madre",
+    "example_en": "This is parent.",
+    "lesson": 5
+  },
+  {
+    "id": 99,
+    "en": "people",
+    "es": "personas",
+    "example_en": "This is people.",
+    "lesson": 5
+  },
+  {
+    "id": 100,
+    "en": "person",
+    "es": "persona",
+    "example_en": "This is person.",
+    "lesson": 5
+  },
+  {
+    "id": 101,
+    "en": "single",
+    "es": "soltero/a",
+    "example_en": "I'm single.",
+    "lesson": 5
+  },
+  {
+    "id": 102,
+    "en": "sister",
+    "es": "hermana",
+    "example_en": "This is sister.",
+    "lesson": 5
+  },
+  {
+    "id": 103,
+    "en": "son",
+    "es": "hijo",
+    "example_en": "This is son.",
+    "lesson": 5
+  },
+  {
+    "id": 104,
+    "en": "student",
+    "es": "estudiante",
+    "example_en": "This is student.",
+    "lesson": 5
+  },
+  {
+    "id": 105,
+    "en": "teacher",
+    "es": "profesor/a",
+    "example_en": "This is teacher.",
+    "lesson": 5
+  },
+  {
+    "id": 106,
+    "en": "together",
+    "es": "juntos",
+    "example_en": "We are together.",
+    "lesson": 5
+  },
+  {
+    "id": 107,
+    "en": "uncle",
+    "es": "tío",
+    "example_en": "This is uncle.",
+    "lesson": 5
+  },
+  {
+    "id": 108,
+    "en": "wife",
+    "es": "esposa",
+    "example_en": "This is wife.",
+    "lesson": 5
+  },
+  {
+    "id": 109,
+    "en": "woman",
+    "es": "mujer",
+    "example_en": "This is woman.",
+    "lesson": 5
+  },
+  {
+    "id": 110,
+    "en": "young",
+    "es": "joven",
+    "example_en": "She is young.",
+    "lesson": 5
+  },
+  {
+    "id": 111,
+    "en": "eight",
+    "es": "ocho",
+    "example_en": "I have eight books.",
+    "lesson": 6
+  },
+  {
+    "id": 112,
+    "en": "eighteen",
+    "es": "dieciocho",
+    "example_en": "I have eighteen books.",
+    "lesson": 6
+  },
+  {
+    "id": 113,
+    "en": "eighty",
+    "es": "ochenta",
+    "example_en": "I have eighty books.",
+    "lesson": 6
+  },
+  {
+    "id": 114,
+    "en": "eleven",
+    "es": "once",
+    "example_en": "I have eleven books.",
+    "lesson": 6
+  },
+  {
+    "id": 115,
+    "en": "fifteen",
+    "es": "quince",
+    "example_en": "I have fifteen books.",
+    "lesson": 6
+  },
+  {
+    "id": 116,
+    "en": "fifty",
+    "es": "cincuenta",
+    "example_en": "I have fifty books.",
+    "lesson": 6
+  },
+  {
+    "id": 117,
+    "en": "five",
+    "es": "cinco",
+    "example_en": "I have five books.",
+    "lesson": 6
+  },
+  {
+    "id": 118,
+    "en": "forty",
+    "es": "cuarenta",
+    "example_en": "I have forty books.",
+    "lesson": 6
+  },
+  {
+    "id": 119,
+    "en": "four",
+    "es": "cuatro",
+    "example_en": "I have four books.",
+    "lesson": 6
+  },
+  {
+    "id": 120,
+    "en": "fourteen",
+    "es": "catorce",
+    "example_en": "I have fourteen books.",
+    "lesson": 6
+  },
+  {
+    "id": 121,
+    "en": "hour",
+    "es": "hora",
+    "example_en": "One hour.",
+    "lesson": 6
+  },
+  {
+    "id": 122,
+    "en": "hundred",
+    "es": "cien",
+    "example_en": "One hundred.",
+    "lesson": 6
+  },
+  {
+    "id": 123,
+    "en": "minute",
+    "es": "minuto",
+    "example_en": "One minute.",
+    "lesson": 6
+  },
+  {
+    "id": 124,
+    "en": "nine",
+    "es": "nueve",
+    "example_en": "I have nine books.",
+    "lesson": 6
+  },
+  {
+    "id": 125,
+    "en": "nineteen",
+    "es": "diecinueve",
+    "example_en": "I have nineteen books.",
+    "lesson": 6
+  },
+  {
+    "id": 126,
+    "en": "ninety",
+    "es": "noventa",
+    "example_en": "I have ninety books.",
+    "lesson": 6
+  },
+  {
+    "id": 127,
+    "en": "o'clock",
+    "es": "en punto",
+    "example_en": "It is one o'clock.",
+    "lesson": 6
+  },
+  {
+    "id": 128,
+    "en": "one",
+    "es": "uno",
+    "example_en": "I have one book.",
+    "lesson": 6
+  },
+  {
+    "id": 129,
+    "en": "second",
+    "es": "segundo",
+    "example_en": "One second.",
+    "lesson": 6
+  },
+  {
+    "id": 130,
+    "en": "seven",
+    "es": "siete",
+    "example_en": "I have seven books.",
+    "lesson": 6
+  },
+  {
+    "id": 131,
+    "en": "seventeen",
+    "es": "diecisiete",
+    "example_en": "I have seventeen books.",
+    "lesson": 6
+  },
+  {
+    "id": 132,
+    "en": "seventy",
+    "es": "setenta",
+    "example_en": "I have seventy books.",
+    "lesson": 6
+  },
+  {
+    "id": 133,
+    "en": "six",
+    "es": "seis",
+    "example_en": "I have six books.",
+    "lesson": 6
+  },
+  {
+    "id": 134,
+    "en": "sixteen",
+    "es": "dieciséis",
+    "example_en": "I have sixteen books.",
+    "lesson": 6
+  },
+  {
+    "id": 135,
+    "en": "sixty",
+    "es": "sesenta",
+    "example_en": "I have sixty books.",
+    "lesson": 6
+  },
+  {
+    "id": 136,
+    "en": "ten",
+    "es": "diez",
+    "example_en": "I have ten books.",
+    "lesson": 6
+  },
+  {
+    "id": 137,
+    "en": "thirteen",
+    "es": "trece",
+    "example_en": "I have thirteen books.",
+    "lesson": 6
+  },
+  {
+    "id": 138,
+    "en": "thirty",
+    "es": "treinta",
+    "example_en": "I have thirty books.",
+    "lesson": 6
+  },
+  {
+    "id": 139,
+    "en": "three",
+    "es": "tres",
+    "example_en": "I have three books.",
+    "lesson": 6
+  },
+  {
+    "id": 140,
+    "en": "time",
+    "es": "tiempo/hora",
+    "example_en": "What time is it?",
+    "lesson": 6
+  },
+  {
+    "id": 141,
+    "en": "twelve",
+    "es": "doce",
+    "example_en": "I have twelve books.",
+    "lesson": 6
+  },
+  {
+    "id": 142,
+    "en": "twenty",
+    "es": "veinte",
+    "example_en": "I have twenty books.",
+    "lesson": 6
+  },
+  {
+    "id": 143,
+    "en": "two",
+    "es": "dos",
+    "example_en": "I have two books.",
+    "lesson": 6
+  },
+  {
+    "id": 144,
+    "en": "artist",
+    "es": "artista",
+    "example_en": "This is artist.",
+    "lesson": 7
+  },
+  {
+    "id": 145,
+    "en": "assistant",
+    "es": "asistente",
+    "example_en": "I am an assistant.",
+    "lesson": 7
+  },
+  {
+    "id": 146,
+    "en": "boss",
+    "es": "jefe",
+    "example_en": "My boss is kind.",
+    "lesson": 7
+  },
+  {
+    "id": 147,
+    "en": "business",
+    "es": "negocio",
+    "example_en": "This business is new.",
+    "lesson": 7
+  },
+  {
+    "id": 148,
+    "en": "career",
+    "es": "carrera/profesión",
+    "example_en": "My career is important.",
+    "lesson": 7
+  },
+  {
+    "id": 149,
+    "en": "cashier",
+    "es": "cajero/a",
+    "example_en": "This is cashier.",
+    "lesson": 7
+  },
+  {
+    "id": 150,
+    "en": "chef",
+    "es": "chef/cocinero",
+    "example_en": "This is chef.",
+    "lesson": 7
+  },
+  {
+    "id": 151,
+    "en": "client",
+    "es": "cliente",
+    "example_en": "The client is ready.",
+    "lesson": 7
+  },
+  {
+    "id": 152,
+    "en": "company",
+    "es": "empresa",
+    "example_en": "This company is big.",
+    "lesson": 7
+  },
+  {
+    "id": 153,
+    "en": "customer",
+    "es": "cliente (comprador)",
+    "example_en": "The customer is here.",
+    "lesson": 7
+  },
+  {
+    "id": 154,
+    "en": "designer",
+    "es": "diseñador/a",
+    "example_en": "This is designer.",
+    "lesson": 7
+  },
+  {
+    "id": 155,
+    "en": "doctor",
+    "es": "médico/a",
+    "example_en": "This is doctor.",
+    "lesson": 7
+  },
+  {
+    "id": 156,
+    "en": "driver",
+    "es": "conductor/a",
+    "example_en": "This is driver.",
+    "lesson": 7
+  },
+  {
+    "id": 157,
+    "en": "employee",
+    "es": "empleado/a",
+    "example_en": "I am an employee.",
+    "lesson": 7
+  },
+  {
+    "id": 158,
+    "en": "engineer",
+    "es": "ingeniero/a",
+    "example_en": "This is engineer.",
+    "lesson": 7
+  },
+  {
+    "id": 159,
+    "en": "full-time",
+    "es": "tiempo completo",
+    "example_en": "I work full-time.",
+    "lesson": 7
+  },
+  {
+    "id": 160,
+    "en": "job",
+    "es": "trabajo/empleo",
+    "example_en": "I have a job.",
+    "lesson": 7
+  },
+  {
+    "id": 161,
+    "en": "lawyer",
+    "es": "abogado/a",
+    "example_en": "This is lawyer.",
+    "lesson": 7
+  },
+  {
+    "id": 162,
+    "en": "manager",
+    "es": "gerente",
+    "example_en": "My manager is here.",
+    "lesson": 7
+  },
+  {
+    "id": 163,
+    "en": "meeting",
+    "es": "reunión",
+    "example_en": "I have a meeting.",
+    "lesson": 7
+  },
+  {
+    "id": 164,
+    "en": "nurse",
+    "es": "enfermero/a",
+    "example_en": "This is nurse.",
+    "lesson": 7
+  },
+  {
+    "id": 165,
+    "en": "office",
+    "es": "oficina",
+    "example_en": "I work in an office.",
+    "lesson": 7
+  },
+  {
+    "id": 166,
+    "en": "part-time",
+    "es": "medio tiempo",
+    "example_en": "I work part-time.",
+    "lesson": 7
+  },
+  {
+    "id": 167,
+    "en": "project",
+    "es": "proyecto",
+    "example_en": "This project is important.",
+    "lesson": 7
+  },
+  {
+    "id": 168,
+    "en": "receptionist",
+    "es": "recepcionista",
+    "example_en": "She is a receptionist.",
+    "lesson": 7
+  },
+  {
+    "id": 169,
+    "en": "schedule",
+    "es": "horario/agenda",
+    "example_en": "My schedule is full.",
+    "lesson": 7
+  },
+  {
+    "id": 170,
+    "en": "seller",
+    "es": "vendedor/a",
+    "example_en": "This is seller.",
+    "lesson": 7
+  },
+  {
+    "id": 171,
+    "en": "service",
+    "es": "servicio",
+    "example_en": "Good service.",
+    "lesson": 7
+  },
+  {
+    "id": 172,
+    "en": "shift",
+    "es": "turno",
+    "example_en": "My shift is today.",
+    "lesson": 7
+  },
+  {
+    "id": 173,
+    "en": "task",
+    "es": "tarea",
+    "example_en": "This task is easy.",
+    "lesson": 7
+  },
+  {
+    "id": 174,
+    "en": "waiter",
+    "es": "mesero/camarero",
+    "example_en": "This is waiter.",
+    "lesson": 7
+  },
+  {
+    "id": 175,
+    "en": "work",
+    "es": "trabajar",
+    "example_en": "I work here.",
+    "lesson": 7
+  },
+  {
+    "id": 176,
+    "en": "workplace",
+    "es": "lugar de trabajo",
+    "example_en": "My workplace is downtown.",
+    "lesson": 7
+  },
+  {
+    "id": 177,
+    "en": "arrive",
+    "es": "llegar",
+    "example_en": "I arrive on time.",
+    "lesson": 8
+  },
+  {
+    "id": 178,
+    "en": "clean",
+    "es": "limpiar",
+    "example_en": "I clean the house.",
+    "lesson": 8
+  },
+  {
+    "id": 179,
+    "en": "come",
+    "es": "venir",
+    "example_en": "Come here, please.",
+    "lesson": 8
+  },
+  {
+    "id": 180,
+    "en": "cook",
+    "es": "cocinar",
+    "example_en": "I cook dinner.",
+    "lesson": 8
+  },
+  {
+    "id": 181,
+    "en": "drink",
+    "es": "beber",
+    "example_en": "I drink water.",
+    "lesson": 8
+  },
+  {
+    "id": 182,
+    "en": "drive",
+    "es": "conducir",
+    "example_en": "I drive to the office.",
+    "lesson": 8
+  },
+  {
+    "id": 183,
+    "en": "eat",
+    "es": "comer",
+    "example_en": "I eat breakfast.",
+    "lesson": 8
+  },
+  {
+    "id": 184,
+    "en": "exercise",
+    "es": "hacer ejercicio",
+    "example_en": "I exercise today.",
+    "lesson": 8
+  },
+  {
+    "id": 185,
+    "en": "finish",
+    "es": "terminar",
+    "example_en": "I finish at six.",
+    "lesson": 8
+  },
+  {
+    "id": 186,
+    "en": "get",
+    "es": "levantarse/obtener",
+    "example_en": "I get up at six.",
+    "lesson": 8
+  },
+  {
+    "id": 187,
+    "en": "go",
+    "es": "ir",
+    "example_en": "I go to work.",
+    "lesson": 8
+  },
+  {
+    "id": 188,
+    "en": "learn",
+    "es": "aprender",
+    "example_en": "I learn fast.",
+    "lesson": 8
+  },
+  {
+    "id": 189,
+    "en": "leave",
+    "es": "salir/irse",
+    "example_en": "I leave at five.",
+    "lesson": 8
+  },
+  {
+    "id": 190,
+    "en": "listen",
+    "es": "escuchar",
+    "example_en": "I listen to music.",
+    "lesson": 8
+  },
+  {
+    "id": 191,
+    "en": "make",
+    "es": "hacer",
+    "example_en": "I make coffee.",
+    "lesson": 8
+  },
+  {
+    "id": 192,
+    "en": "play",
+    "es": "jugar/tocar",
+    "example_en": "I play soccer.",
+    "lesson": 8
+  },
+  {
+    "id": 193,
+    "en": "practice",
+    "es": "practicar",
+    "example_en": "I practice every day.",
+    "lesson": 8
+  },
+  {
+    "id": 194,
+    "en": "read",
+    "es": "leer",
+    "example_en": "I read a book.",
+    "lesson": 8
+  },
+  {
+    "id": 195,
+    "en": "run",
+    "es": "correr",
+    "example_en": "I run fast.",
+    "lesson": 8
+  },
+  {
+    "id": 196,
+    "en": "shower",
+    "es": "ducha/ducharse",
+    "example_en": "I shower in the morning.",
+    "lesson": 8
+  },
+  {
+    "id": 197,
+    "en": "sleep",
+    "es": "dormir",
+    "example_en": "I sleep well.",
+    "lesson": 8
+  },
+  {
+    "id": 198,
+    "en": "sometimes",
+    "es": "a veces",
+    "example_en": "I sometimes work late.",
+    "lesson": 8
+  },
+  {
+    "id": 199,
+    "en": "speak",
+    "es": "hablar",
+    "example_en": "I speak English.",
+    "lesson": 8
+  },
+  {
+    "id": 200,
+    "en": "start",
+    "es": "empezar",
+    "example_en": "I start now.",
+    "lesson": 8
+  },
+  {
+    "id": 201,
+    "en": "study",
+    "es": "estudiar",
+    "example_en": "I study English.",
+    "lesson": 8
+  },
+  {
+    "id": 202,
+    "en": "take",
+    "es": "tomar/llevar",
+    "example_en": "I take the bus.",
+    "lesson": 8
+  },
+  {
+    "id": 203,
+    "en": "usually",
+    "es": "usualmente",
+    "example_en": "I usually wake up early.",
+    "lesson": 8
+  },
+  {
+    "id": 204,
+    "en": "wake",
+    "es": "despertar(se)",
+    "example_en": "I wake up early.",
+    "lesson": 8
+  },
+  {
+    "id": 205,
+    "en": "walk",
+    "es": "caminar",
+    "example_en": "I walk to work.",
+    "lesson": 8
+  },
+  {
+    "id": 206,
+    "en": "wash",
+    "es": "lavar",
+    "example_en": "I wash my hands.",
+    "lesson": 8
+  },
+  {
+    "id": 207,
+    "en": "watch",
+    "es": "ver/mirar",
+    "example_en": "I watch TV.",
+    "lesson": 8
+  },
+  {
+    "id": 208,
+    "en": "write",
+    "es": "escribir",
+    "example_en": "I write notes.",
+    "lesson": 8
+  },
+  {
+    "id": 209,
+    "en": "bread",
+    "es": "pan",
+    "example_en": "I eat bread.",
+    "lesson": 9
+  },
+  {
+    "id": 210,
+    "en": "breakfast",
+    "es": "desayuno",
+    "example_en": "I eat breakfast.",
+    "lesson": 9
+  },
+  {
+    "id": 211,
+    "en": "chicken",
+    "es": "pollo",
+    "example_en": "I eat chicken.",
+    "lesson": 9
+  },
+  {
+    "id": 212,
+    "en": "coffee",
+    "es": "café",
+    "example_en": "I want coffee.",
+    "lesson": 9
+  },
+  {
+    "id": 213,
+    "en": "dessert",
+    "es": "postre",
+    "example_en": "I want dessert.",
+    "lesson": 9
+  },
+  {
+    "id": 214,
+    "en": "dinner",
+    "es": "cena",
+    "example_en": "I cook dinner.",
+    "lesson": 9
+  },
+  {
+    "id": 215,
+    "en": "enjoy",
+    "es": "disfrutar",
+    "example_en": "I enjoy reading.",
+    "lesson": 9
+  },
+  {
+    "id": 216,
+    "en": "favorite",
+    "es": "favorito/a",
+    "example_en": "Coffee is my favorite.",
+    "lesson": 9
+  },
+  {
+    "id": 217,
+    "en": "fish",
+    "es": "pescado",
+    "example_en": "I like fish.",
+    "lesson": 9
+  },
+  {
+    "id": 218,
+    "en": "food",
+    "es": "comida",
+    "example_en": "The food is good.",
+    "lesson": 9
+  },
+  {
+    "id": 219,
+    "en": "fruit",
+    "es": "fruta",
+    "example_en": "I like fruit.",
+    "lesson": 9
+  },
+  {
+    "id": 220,
+    "en": "hate",
+    "es": "odiar",
+    "example_en": "I hate noise.",
+    "lesson": 9
+  },
+  {
+    "id": 221,
+    "en": "hungry",
+    "es": "hambriento/a",
+    "example_en": "I'm hungry.",
+    "lesson": 9
+  },
+  {
+    "id": 222,
+    "en": "juice",
+    "es": "jugo",
+    "example_en": "I like juice.",
+    "lesson": 9
+  },
+  {
+    "id": 223,
+    "en": "like",
+    "es": "gustar",
+    "example_en": "I like coffee.",
+    "lesson": 9
+  },
+  {
+    "id": 224,
+    "en": "love",
+    "es": "encantar",
+    "example_en": "I love music.",
+    "lesson": 9
+  },
+  {
+    "id": 225,
+    "en": "lunch",
+    "es": "almuerzo",
+    "example_en": "I eat lunch.",
+    "lesson": 9
+  },
+  {
+    "id": 226,
+    "en": "meat",
+    "es": "carne",
+    "example_en": "I don't eat meat.",
+    "lesson": 9
+  },
+  {
+    "id": 227,
+    "en": "music",
+    "es": "música",
+    "example_en": "I like music.",
+    "lesson": 9
+  },
+  {
+    "id": 228,
+    "en": "need",
+    "es": "necesitar",
+    "example_en": "I need help.",
+    "lesson": 9
+  },
+  {
+    "id": 229,
+    "en": "prefer",
+    "es": "preferir",
+    "example_en": "I prefer tea.",
+    "lesson": 9
+  },
+  {
+    "id": 230,
+    "en": "rice",
+    "es": "arroz",
+    "example_en": "I eat rice.",
+    "lesson": 9
+  },
+  {
+    "id": 231,
+    "en": "salad",
+    "es": "ensalada",
+    "example_en": "I want a salad.",
+    "lesson": 9
+  },
+  {
+    "id": 232,
+    "en": "salty",
+    "es": "salado",
+    "example_en": "This is salty.",
+    "lesson": 9
+  },
+  {
+    "id": 233,
+    "en": "snack",
+    "es": "merienda/snack",
+    "example_en": "I want a snack.",
+    "lesson": 9
+  },
+  {
+    "id": 234,
+    "en": "soup",
+    "es": "sopa",
+    "example_en": "The soup is hot.",
+    "lesson": 9
+  },
+  {
+    "id": 235,
+    "en": "spicy",
+    "es": "picante",
+    "example_en": "This is spicy.",
+    "lesson": 9
+  },
+  {
+    "id": 236,
+    "en": "sweet",
+    "es": "dulce",
+    "example_en": "This is sweet.",
+    "lesson": 9
+  },
+  {
+    "id": 237,
+    "en": "tea",
+    "es": "té",
+    "example_en": "I prefer tea.",
+    "lesson": 9
+  },
+  {
+    "id": 238,
+    "en": "thirsty",
+    "es": "sediento/a",
+    "example_en": "I'm thirsty.",
+    "lesson": 9
+  },
+  {
+    "id": 239,
+    "en": "vegetable",
+    "es": "verdura",
+    "example_en": "I eat vegetables.",
+    "lesson": 9
+  },
+  {
+    "id": 240,
+    "en": "want",
+    "es": "querer",
+    "example_en": "I want water.",
+    "lesson": 9
+  },
+  {
+    "id": 241,
+    "en": "water",
+    "es": "agua",
+    "example_en": "I drink water.",
+    "lesson": 9
+  },
+  {
+    "id": 242,
+    "en": "accent",
+    "es": "acento",
+    "example_en": "Your accent is clear.",
+    "lesson": 10
+  },
+  {
+    "id": 243,
+    "en": "again",
+    "es": "otra vez",
+    "example_en": "Again, please.",
+    "lesson": 10
+  },
+  {
+    "id": 244,
+    "en": "answer",
+    "es": "respuesta",
+    "example_en": "My answer is yes.",
+    "lesson": 10
+  },
+  {
+    "id": 245,
+    "en": "clear",
+    "es": "claro",
+    "example_en": "Speak clear, please.",
+    "lesson": 10
+  },
+  {
+    "id": 246,
+    "en": "confused",
+    "es": "confundido/a",
+    "example_en": "I'm confused.",
+    "lesson": 10
+  },
+  {
+    "id": 247,
+    "en": "correct",
+    "es": "correcto/corregir",
+    "example_en": "That is correct.",
+    "lesson": 10
+  },
+  {
+    "id": 248,
+    "en": "difference",
+    "es": "diferencia",
+    "example_en": "What is the difference?",
+    "lesson": 10
+  },
+  {
+    "id": 249,
+    "en": "example",
+    "es": "ejemplo",
+    "example_en": "Give an example.",
+    "lesson": 10
+  },
+  {
+    "id": 250,
+    "en": "excuse",
+    "es": "disculpe",
+    "example_en": "Excuse me.",
+    "lesson": 10
+  },
+  {
+    "id": 251,
+    "en": "explain",
+    "es": "explicar",
+    "example_en": "Explain, please.",
+    "lesson": 10
+  },
+  {
+    "id": 252,
+    "en": "fast",
+    "es": "rápido",
+    "example_en": "Speak fast?",
+    "lesson": 10
+  },
+  {
+    "id": 253,
+    "en": "faster",
+    "es": "más rápido",
+    "example_en": "Faster, please.",
+    "lesson": 10
+  },
+  {
+    "id": 254,
+    "en": "help",
+    "es": "ayuda/ayudar",
+    "example_en": "Help, please.",
+    "lesson": 10
+  },
+  {
+    "id": 255,
+    "en": "language",
+    "es": "idioma",
+    "example_en": "English is a language.",
+    "lesson": 10
+  },
+  {
+    "id": 256,
+    "en": "mean",
+    "es": "significar",
+    "example_en": "What does it mean?",
+    "lesson": 10
+  },
+  {
+    "id": 257,
+    "en": "meaning",
+    "es": "significado",
+    "example_en": "What is the meaning?",
+    "lesson": 10
+  },
+  {
+    "id": 258,
+    "en": "note",
+    "es": "nota/apuntar",
+    "example_en": "Take a note.",
+    "lesson": 10
+  },
+  {
+    "id": 259,
+    "en": "pardon",
+    "es": "perdón",
+    "example_en": "Pardon me.",
+    "lesson": 10
+  },
+  {
+    "id": 260,
+    "en": "phrase",
+    "es": "frase",
+    "example_en": "This phrase is useful.",
+    "lesson": 10
+  },
+  {
+    "id": 261,
+    "en": "pronunciation",
+    "es": "pronunciación",
+    "example_en": "My pronunciation is better.",
+    "lesson": 10
+  },
+  {
+    "id": 262,
+    "en": "question",
+    "es": "pregunta",
+    "example_en": "I have a question.",
+    "lesson": 10
+  },
+  {
+    "id": 263,
+    "en": "repeat",
+    "es": "repetir",
+    "example_en": "Repeat, please.",
+    "lesson": 10
+  },
+  {
+    "id": 264,
+    "en": "say",
+    "es": "decir",
+    "example_en": "Say it again.",
+    "lesson": 10
+  },
+  {
+    "id": 265,
+    "en": "sentence",
+    "es": "oración",
+    "example_en": "This sentence is short.",
+    "lesson": 10
+  },
+  {
+    "id": 266,
+    "en": "show",
+    "es": "mostrar",
+    "example_en": "Show me, please.",
+    "lesson": 10
+  },
+  {
+    "id": 267,
+    "en": "slow",
+    "es": "lento",
+    "example_en": "Speak slow, please.",
+    "lesson": 10
+  },
+  {
+    "id": 268,
+    "en": "slower",
+    "es": "más lento",
+    "example_en": "Slower, please.",
+    "lesson": 10
+  },
+  {
+    "id": 269,
+    "en": "sorry",
+    "es": "lo siento",
+    "example_en": "Sorry.",
+    "lesson": 10
+  },
+  {
+    "id": 270,
+    "en": "sound",
+    "es": "sonido",
+    "example_en": "This sound is new.",
+    "lesson": 10
+  },
+  {
+    "id": 271,
+    "en": "tell",
+    "es": "decir/contar",
+    "example_en": "Tell me, please.",
+    "lesson": 10
+  },
+  {
+    "id": 272,
+    "en": "translate",
+    "es": "traducir",
+    "example_en": "Translate this, please.",
+    "lesson": 10
+  },
+  {
+    "id": 273,
+    "en": "understand",
+    "es": "entender",
+    "example_en": "I understand.",
+    "lesson": 10
+  },
+  {
+    "id": 274,
+    "en": "word",
+    "es": "palabra",
+    "example_en": "This word is new.",
+    "lesson": 10
+  },
+  {
+    "id": 275,
+    "en": "allow",
+    "es": "permitir",
+    "example_en": "Allow me, please.",
+    "lesson": 11
+  },
+  {
+    "id": 276,
+    "en": "appreciate",
+    "es": "apreciar/agradecer",
+    "example_en": "I appreciate your help.",
+    "lesson": 11
+  },
+  {
+    "id": 277,
+    "en": "ask",
+    "es": "preguntar/pedir",
+    "example_en": "Ask a question.",
+    "lesson": 11
+  },
+  {
+    "id": 278,
+    "en": "bathroom",
+    "es": "baño",
+    "example_en": "Where is the bathroom?",
+    "lesson": 11
+  },
+  {
+    "id": 279,
+    "en": "book",
+    "es": "libro",
+    "example_en": "This book is new.",
+    "lesson": 11
+  },
+  {
+    "id": 280,
+    "en": "borrow",
+    "es": "pedir prestado",
+    "example_en": "Can I borrow a pen?",
+    "lesson": 11
+  },
+  {
+    "id": 281,
+    "en": "break",
+    "es": "descanso",
+    "example_en": "We have a break.",
+    "lesson": 11
+  },
+  {
+    "id": 282,
+    "en": "bring",
+    "es": "traer",
+    "example_en": "Bring your notebook.",
+    "lesson": 11
+  },
+  {
+    "id": 283,
+    "en": "class",
+    "es": "clase",
+    "example_en": "The class is today.",
+    "lesson": 11
+  },
+  {
+    "id": 284,
+    "en": "classroom",
+    "es": "salón de clase",
+    "example_en": "The classroom is ready.",
+    "lesson": 11
+  },
+  {
+    "id": 285,
+    "en": "close",
+    "es": "cerrar",
+    "example_en": "Close the book.",
+    "lesson": 11
+  },
+  {
+    "id": 286,
+    "en": "dictionary",
+    "es": "diccionario",
+    "example_en": "Use a dictionary.",
+    "lesson": 11
+  },
+  {
+    "id": 287,
+    "en": "give",
+    "es": "dar",
+    "example_en": "Give me the pen.",
+    "lesson": 11
+  },
+  {
+    "id": 288,
+    "en": "homework",
+    "es": "tarea",
+    "example_en": "This homework is easy.",
+    "lesson": 11
+  },
+  {
+    "id": 289,
+    "en": "issue",
+    "es": "asunto/problema",
+    "example_en": "This is an issue.",
+    "lesson": 11
+  },
+  {
+    "id": 290,
+    "en": "lend",
+    "es": "prestar",
+    "example_en": "Can you lend me a pen?",
+    "lesson": 11
+  },
+  {
+    "id": 291,
+    "en": "notebook",
+    "es": "cuaderno",
+    "example_en": "This is my notebook.",
+    "lesson": 11
+  },
+  {
+    "id": 292,
+    "en": "off",
+    "es": "apagar",
+    "example_en": "Turn it off.",
+    "lesson": 11
+  },
+  {
+    "id": 293,
+    "en": "open",
+    "es": "abrir",
+    "example_en": "Open the book.",
+    "lesson": 11
+  },
+  {
+    "id": 294,
+    "en": "page",
+    "es": "página",
+    "example_en": "Open page one.",
+    "lesson": 11
+  },
+  {
+    "id": 295,
+    "en": "paper",
+    "es": "papel",
+    "example_en": "I need paper.",
+    "lesson": 11
+  },
+  {
+    "id": 296,
+    "en": "pen",
+    "es": "bolígrafo",
+    "example_en": "I need a pen.",
+    "lesson": 11
+  },
+  {
+    "id": 297,
+    "en": "pencil",
+    "es": "lápiz",
+    "example_en": "I need a pencil.",
+    "lesson": 11
+  },
+  {
+    "id": 298,
+    "en": "permission",
+    "es": "permiso",
+    "example_en": "I need permission.",
+    "lesson": 11
+  },
+  {
+    "id": 299,
+    "en": "problem",
+    "es": "problema",
+    "example_en": "I have a problem.",
+    "lesson": 11
+  },
+  {
+    "id": 300,
+    "en": "ready",
+    "es": "listo/a",
+    "example_en": "I am ready.",
+    "lesson": 11
+  },
+  {
+    "id": 301,
+    "en": "request",
+    "es": "solicitar",
+    "example_en": "I have a request.",
+    "lesson": 11
+  },
+  {
+    "id": 302,
+    "en": "support",
+    "es": "apoyo/apoyar",
+    "example_en": "Thank you for your support.",
+    "lesson": 11
+  },
+  {
+    "id": 303,
+    "en": "turn",
+    "es": "girar/encender",
+    "example_en": "Turn left.",
+    "lesson": 11
+  },
+  {
+    "id": 304,
+    "en": "use",
+    "es": "usar",
+    "example_en": "Use this word.",
+    "lesson": 11
+  },
+  {
+    "id": 305,
+    "en": "April",
+    "es": "abril",
+    "example_en": "April is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 306,
+    "en": "August",
+    "es": "agosto",
+    "example_en": "August is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 307,
+    "en": "December",
+    "es": "diciembre",
+    "example_en": "December is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 308,
+    "en": "February",
+    "es": "febrero",
+    "example_en": "February is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 309,
+    "en": "Friday",
+    "es": "viernes",
+    "example_en": "Today is Friday.",
+    "lesson": 12
+  },
+  {
+    "id": 310,
+    "en": "January",
+    "es": "enero",
+    "example_en": "January is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 311,
+    "en": "July",
+    "es": "julio",
+    "example_en": "July is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 312,
+    "en": "June",
+    "es": "junio",
+    "example_en": "June is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 313,
+    "en": "March",
+    "es": "marzo",
+    "example_en": "March is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 314,
+    "en": "Monday",
+    "es": "lunes",
+    "example_en": "Today is Monday.",
+    "lesson": 12
+  },
+  {
+    "id": 315,
+    "en": "November",
+    "es": "noviembre",
+    "example_en": "November is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 316,
+    "en": "October",
+    "es": "octubre",
+    "example_en": "October is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 317,
+    "en": "Saturday",
+    "es": "sábado",
+    "example_en": "Today is Saturday.",
+    "lesson": 12
+  },
+  {
+    "id": 318,
+    "en": "September",
+    "es": "septiembre",
+    "example_en": "September is a month.",
+    "lesson": 12
+  },
+  {
+    "id": 319,
+    "en": "Sunday",
+    "es": "domingo",
+    "example_en": "Today is Sunday.",
+    "lesson": 12
+  },
+  {
+    "id": 320,
+    "en": "Thursday",
+    "es": "jueves",
+    "example_en": "Today is Thursday.",
+    "lesson": 12
+  },
+  {
+    "id": 321,
+    "en": "Tuesday",
+    "es": "martes",
+    "example_en": "Today is Tuesday.",
+    "lesson": 12
+  },
+  {
+    "id": 322,
+    "en": "Wednesday",
+    "es": "miércoles",
+    "example_en": "Today is Wednesday.",
+    "lesson": 12
+  },
+  {
+    "id": 323,
+    "en": "always",
+    "es": "siempre",
+    "example_en": "I always practice.",
+    "lesson": 12
+  },
+  {
+    "id": 324,
+    "en": "black",
+    "es": "negro",
+    "example_en": "Black is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 325,
+    "en": "blue",
+    "es": "azul",
+    "example_en": "Blue is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 326,
+    "en": "brown",
+    "es": "café/marrón",
+    "example_en": "Brown is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 327,
+    "en": "gray",
+    "es": "gris",
+    "example_en": "Gray is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 328,
+    "en": "green",
+    "es": "verde",
+    "example_en": "Green is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 329,
+    "en": "never",
+    "es": "nunca",
+    "example_en": "I never work on Sunday.",
+    "lesson": 12
+  },
+  {
+    "id": 330,
+    "en": "orange",
+    "es": "naranja",
+    "example_en": "Orange is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 331,
+    "en": "pink",
+    "es": "rosado",
+    "example_en": "Pink is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 332,
+    "en": "purple",
+    "es": "morado",
+    "example_en": "Purple is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 333,
+    "en": "really",
+    "es": "realmente",
+    "example_en": "I really like it.",
+    "lesson": 12
+  },
+  {
+    "id": 334,
+    "en": "red",
+    "es": "rojo",
+    "example_en": "Red is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 335,
+    "en": "very",
+    "es": "muy",
+    "example_en": "It is very good.",
+    "lesson": 12
+  },
+  {
+    "id": 336,
+    "en": "white",
+    "es": "blanco",
+    "example_en": "White is my favorite color.",
+    "lesson": 12
+  },
+  {
+    "id": 337,
+    "en": "yellow",
+    "es": "amarillo",
+    "example_en": "Yellow is my favorite color.",
+    "lesson": 12
+  }
+]
