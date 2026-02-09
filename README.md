@@ -13,3 +13,7 @@ Banco **solo de palabras de contenido** (contenido léxico) para *Inglés desde 
 ## Filosofía
 Este repo es **minimalista**: se alimenta ocasionalmente y se usa para generar tests y seguimiento.
 Las palabras de función van en un repo aparte.
+
+git add README.md
+git commit -m "Document CSV as source of truth"
+git push
